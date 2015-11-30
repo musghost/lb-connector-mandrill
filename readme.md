@@ -5,7 +5,7 @@
 ## 1. Installation
 
 ````sh
-npm install lb-connector-mandrill --save
+npm install musghost/lb-connector-mandrill 
 ````
 
 ## 2. Configuration
