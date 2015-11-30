@@ -1,0 +1,62 @@
+{
+  "name": "lb-connector-mandrill",
+  "version": "0.0.3",
+  "description": "Loopback connector module which allow to send emails via Mandrill",
+  "main": "index.js",
+  "keywords": [
+    "loopback",
+    "mandrill",
+    "connector",
+    "evenemento",
+    "templates"
+  ],
+  "author": {
+    "name": "Maciej Chmielarski",
+    "email": "hello@evenemento.co",
+    "url": "http://evenemento.co/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "mandrill-api": "^1.0.41",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "loopback": "^2.7.0",
+    "loopback-datasource-juggler": "^2.10.2",
+    "mocha": "^2.0.1",
+    "rewire": "^2.1.2"
+  },
+  "homepage": "https://github.com/evenemento/lb-connector-mandrill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evenemento/lb-connector-mandrill.git"
+  },
+  "gitHead": "2796b89480544a3eb0aba2702a1f816e0e460bd3",
+  "bugs": {
+    "url": "https://github.com/evenemento/lb-connector-mandrill/issues"
+  },
+  "_id": "lb-connector-mandrill@0.0.3",
+  "scripts": {},
+  "_shasum": "2120599fc6d67e5f920270972be11942b3b77790",
+  "_from": "lb-connector-mandrill@*",
+  "_npmVersion": "1.4.24",
+  "_npmUser": {
+    "name": "mchmielarski",
+    "email": "m.chmielarski@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mchmielarski",
+      "email": "m.chmielarski@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2120599fc6d67e5f920270972be11942b3b77790",
+    "tarball": "http://registry.npmjs.org/lb-connector-mandrill/-/lb-connector-mandrill-0.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lb-connector-mandrill/-/lb-connector-mandrill-0.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
